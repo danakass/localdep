@@ -1,2 +1,3 @@
 1st modification, first line of code
 2nd line for the file and its for second commit
+3d line adding to file and 3d commit
